@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace WindowsFormsApplication1.Classes
+namespace Cards.Base
 {
     public class Card
     {

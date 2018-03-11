@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication1
+﻿namespace Cards
 {
     partial class Form1
     {

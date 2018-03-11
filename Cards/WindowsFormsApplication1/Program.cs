@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using WindowsFormsApplication1.Classes;
+using Cards.Base;
+using Cards.Durak;
 
-namespace WindowsFormsApplication1
+namespace Cards
 {
     static class Program
     {

@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication1.Classes
+﻿namespace Cards.Base
 {
     public enum ECardSuit
     {

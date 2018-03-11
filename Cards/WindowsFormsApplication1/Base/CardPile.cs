@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace WindowsFormsApplication1.Classes
+namespace Cards.Base
 {
     public class CardPile
     {
